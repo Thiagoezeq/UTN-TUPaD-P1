@@ -1,0 +1,6 @@
+Nombre=(input("ingrese nombre"))
+Apellido=(input("ingrese apellido"))
+Materia=(input("ingrese materia"))
+Localidad=(input("ingrese localidad"))
+Facultad=(input("ingrese facultad"))
+print(f"Hola soy {Nombre} {Apellido}, soy de la localidad de {Localidad}, soy alumno de la facultad {Facultad} y estoy en la materia de {Materia}")
