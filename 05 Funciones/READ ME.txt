@@ -1,0 +1,4 @@
+READ ME
+
+Ejercicio 5
+Lo que esta haciendo el programa es borrar de la lista el numero más grande.
